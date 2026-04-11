@@ -55,6 +55,8 @@ law_workmens_compensation = {
 		labor_movement
 	}
 
+	institution = institution_workplace_safety
+
 	ai_enact_weight_modifier = { #Petitions
 		value = 0
 
