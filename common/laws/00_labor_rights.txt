@@ -54,6 +54,15 @@ law_workmens_compensation = {
 	unlocking_technologies = {
 		labor_movement
 	}
+
+	ai_enact_weight_modifier = { #Petitions
+		value = 0
+
+		if = {
+			limit = { ai_has_enact_weight_modifier_journal_entries = yes }
+			add = 750
+		}
+	}
 }
 
 law_worker_protections = {
