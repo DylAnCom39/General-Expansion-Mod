@@ -48,7 +48,7 @@ law_regulatory_bodies = {
 law_workmens_compensation = {
 	group = lawgroup_labor_rights
 
-	icon = ""
+	icon = "gfx/interface/icons/workmens_compensation.dds"
 
 	progressiveness = 75
 
