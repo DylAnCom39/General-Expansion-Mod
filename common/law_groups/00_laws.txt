@@ -118,7 +118,31 @@ lawgroup_free_speech = {
 	ideological_opinion_impact = 0.5
 }
 
+# Labour Laws
+
+# Workplace Safety - affects workforce ratio, dangerous working conditions, and minimum expected living standards
 lawgroup_labor_rights = {
+	law_group_category = human_rights
+	ideological_opinion_impact = 0.5
+}
+
+# Remuneration - affects job attractiveness and building wage targets primarily, as well as the standard of living for the lower strata
+
+lawgroup_remuneration = {
+	law_group_category = human_rights
+	ideological_opinion_impact = 0.5
+}
+
+# Working Hours - affects building throughput and construction efficiency
+
+lawgroup_working_hours = {
+	law_group_category = human_rights
+	ideological_opinion_impact = 0.5
+}
+
+# Job Security - affects building employment and qualifications
+
+lawgroup_job_security = {
 	law_group_category = human_rights
 	ideological_opinion_impact = 0.5
 }
