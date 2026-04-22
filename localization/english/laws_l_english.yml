@@ -569,7 +569,35 @@
  law_workmens_compensation_desc:0 "Workers are entitled to claim compensation from employers for any diseases or accidents that happened as a result of employer negligence."
  law_worker_protections:0 "Strict Precautions"
  law_worker_protections_desc:0 "All employers are obligated to take all necessary steps to ensure that workers are kept as safe as possible in the workplace."
-  
+
+ # Remuneration group
+ lawgroup_remuneration:0 "Remuneration"
+ lawgroup_remuneration_desc:0 "Standards governing the setting of wages and the compensation of workers for their labour."
+
+ law_unregulated_wages:0 "Unregulated Wages"
+ law_unregulated_wages_desc:0 "The government does not involve itself in the regulation of wages and compensation."
+ law_wage_subsidies:1 "Wage Subsidies"
+ law_wage_subsidies_desc:1 "Low wages receive government top ups to ensure they reach at least subsistence level, ensuring employers retain flexibility over labour costs whilst ensuring no worker goes hungry."
+ law_statutory_minimum:0 "Statutory Minimum"
+ law_statutory_minimum_desc:0 "There is a compulsory national floor for hourly wages that all workers are entitled to be paid by their employer."
+ law_sectoral_bargaining:0 "Sectoral Bargaining"
+ law_sectoral_bargaining_desc:0 "Industry-specific remuneration standards are set through a structured, participatory system in which employers and unions come to an agreement on the compensation of workers on a sector-wide basis."
+ 
+ # Working Hours group
+ lawgroup_working_hours:0 "Working Hours"
+ lawgroup_working_hours_desc:0 "Laws governing the length of time workers are permitted to work for, and the amount of time available for rest and recreation, and leave."
+
+ law_unlimited_work_time:0 "Unlimited Work Time"
+ law_unlimited_work_time_desc:0 "There are no restrictions on the amount of time people can spend working, and there are no guaranteed days off or rest breaks."
+ law_national_holidays:0 "National Holidays"
+ law_national_holidays_desc:0 "Workers are given time off on days of religious or cultural significance."
+ law_restricted_hours:0 "Restricted Hours"
+ law_restricted_hours_desc:0 "There is a maximum statutory limit on the amount of time that a worker may spend working per day, alongside a guaranteed amount of rest breaks during the workday."
+ law_weekend_rest:0 "Weekend Rest"
+ law_weekend_rest_desc:0 "Workers are guaranteed time off on Saturdays and Sundays, and cannot be required to work on those days, thereby establishing the five-day working week as a universal standard."
+ law_statutory_leave:0 "Statutory Leave"
+ law_statutory_leave_desc:0 "Alongside comprehensive regulations providing for rest breaks, maximum length of workdays, and time off on weekends, workers are also entitled to take leave for holidays, sickness, and pregnancy."
+
   # Children's Rights group
  lawgroup_childrens_rights:0 "Children's Rights"
  lawgroup_childrens_rights_desc:0 "The rights and protections afforded to children."
@@ -725,8 +753,7 @@
  law_no_social_security_desc:0 "It is not the state's role to provide for those who cannot provide for themselves."
  law_poor_laws:0 "Poor Laws"
  law_poor_laws_desc:0 "Getting the tramps and hobos off our streets and into the workhouses is well worth the cost."
- law_wage_subsidies:1 "Wage Subsidies"
- law_wage_subsidies_desc:1 "All who are willing to work have a right to eat. No man should lack the means to provide for his family."
+ 
  law_old_age_pension:0 "Old Age Pension"
  law_old_age_pension_desc:0 "There is a practical limit to the age where our workforce is no longer efficient and their subsequent welfare must fall under the purview of government."
  law_disability_insurance:0 "Disability Insurance"
