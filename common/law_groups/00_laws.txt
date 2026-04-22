@@ -121,6 +121,7 @@ lawgroup_free_speech = {
 # Labour Laws
 
 # Workplace Safety - affects workforce ratio, dangerous working conditions, and minimum expected living standards
+
 lawgroup_labor_rights = {
 	law_group_category = human_rights
 	ideological_opinion_impact = 0.5
