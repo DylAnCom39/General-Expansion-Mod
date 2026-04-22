@@ -603,14 +603,14 @@
  lawgroup_job_security_desc:0 "The extent to which workers are protected against dismissal by their employer."
 
  law_no_job_security:0 "No Job Security"
- law_no_job_security_desc:0 "Employers are free to fire or lay off workers without any need to justify themselves or pay compensation to workers."
+ law_no_job_security_desc:0 "Employers are free to fire or lay off workers without any need to justify their decision."
  law_notice_periods:0 "Notice Periods"
  law_notice_periods_desc:0 "Workers must be notified at least a few weeks prior to the date of their dismissal, ensuring they have enough time to prepare themselves for redundancy or job loss."
  law_unfair_dismissal:0 "Unfair Dismissal"
  law_unfair_dismissal_desc:0 "Protections are put in place which limit employers' ability to dismiss employees unless they can provide reasonable justification to the government."
  law_job_for_life:0 "Job for Life"
  law_job_for_life_desc:0 "Strict laws protecting workers from being dismissed alongside government policies and programmes designed to ensure full employment are put in place, effectively ensuring all workers are guaranteed a job for life."
- 
+
 
   # Children's Rights group
  lawgroup_childrens_rights:0 "Children's Rights"
