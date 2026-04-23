@@ -57,8 +57,9 @@ law_workmens_compensation = {
 
 	institution = institution_workplace_safety
 	institution_modifier = {
-		state_expected_sol_mult = -0.05
-
+		state_working_adult_ratio_add = 0.01
+		state_harvest_condition_disease_outbreak_impact_mult = -0.05
+		country_construction_goods_cost_mult = 0.05
 	}
 
 	ai_enact_weight_modifier = { #Petitions
@@ -84,8 +85,9 @@ law_worker_protections = {
 
 	institution = institution_workplace_safety
 	institution_modifier = {
-		state_expected_sol_mult = -0.05
-		state_working_adult_ratio_add = 0.01
+		state_working_adult_ratio_add = 0.02
+		state_lower_strata_expected_sol_add = 0.5
+		country_construction_goods_cost_mult = 0.05
 	}
 
 	ai_enact_weight_modifier = { #Petitions
