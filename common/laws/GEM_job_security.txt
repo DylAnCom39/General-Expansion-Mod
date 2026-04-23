@@ -23,9 +23,9 @@ law_notice_periods = {
 
 	institution = institution_workplace_safety
 	institution_modifier = {
-		building_employment_machinists_mult = 0.01
-		building_employment_laborers_mult = 0.01
-		building_employment_clerks_mult = 0.01
+		building_group_bg_manufacturing_employee_mult = 0.01
+		building_group_bg_extraction_employee_mult = 0.01
+		building_group_bg_infrastructure_employee_mult = 0.01
 	}
 }
 
@@ -48,10 +48,12 @@ law_unfair_dismissal = {
 
 	institution = institution_workplace_safety
 	institution_modifier = {
-		building_employment_machinists_mult = 0.01
-		building_employment_laborers_mult = 0.01
-		building_employment_clerks_mult = 0.01
+		building_group_bg_manufacturing_employee_mult = 0.01
+		building_group_bg_extraction_employee_mult = 0.01
+		building_group_bg_infrastructure_employee_mult = 0.01
 		state_pop_qualifications_mult = 0.05
+		building_group_bg_heavy_industry_throughput_add = 0.01
+		country_institution_size_change_speed_mult = -0.05
 	}
 }
 
@@ -74,11 +76,12 @@ law_job_for_life = {
 
 	institution = institution_workplace_safety
 	institution_modifier = {
-		building_employment_machinists_mult = 0.01
-		building_employment_laborers_mult = 0.01
-		building_employment_clerks_mult = 0.01
+		building_group_bg_manufacturing_employee_mult = 0.01
+		building_group_bg_extraction_employee_mult = 0.01
+		building_group_bg_infrastructure_employee_mult = 0.01
 		state_pop_qualifications_mult = 0.05
-
+		building_group_bg_heavy_industry_throughput_add = 0.02
+		country_institution_size_change_speed_mult = -0.1
 	}
 
 }
