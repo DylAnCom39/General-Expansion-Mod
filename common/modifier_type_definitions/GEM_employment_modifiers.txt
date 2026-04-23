@@ -1,4 +1,4 @@
-﻿building_employment_machinists_mult = {
+﻿building_group_bg_extraction_employee_mult = {
 	decimals = 0
 	color = good
 	percent = yes
@@ -7,7 +7,7 @@
 	}
 }
 
-building_employment_laborers_mult = {
+building_group_bg_manufacturing_employee_mult = {
 	decimals = 0
 	color = good
 	percent = yes
@@ -16,7 +16,7 @@ building_employment_laborers_mult = {
 	}
 }
 
-building_employment_clerks_mult = {
+building_group_bg_infrastructure_employee_mult = {
 	decimals = 0
 	color = good
 	percent = yes
