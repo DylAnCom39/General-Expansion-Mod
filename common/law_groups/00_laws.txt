@@ -134,13 +134,6 @@ lawgroup_remuneration = {
 	ideological_opinion_impact = 0.5
 }
 
-# Working Hours - affects building throughput and construction efficiency
- 
-lawgroup_working_hours = {
-	law_group_category = human_rights
-	ideological_opinion_impact = 0.5
-}
-
 # Job Security - affects building employment and qualifications
 
 lawgroup_job_security = {
