@@ -1,0 +1,21 @@
+﻿l_english:
+  lawgroup_labor_rights: "Workplace Safety"
+  lawgroup_labor_rights_desc: "Regulations imposed in order to protect workers against occupational hazards and illnesses."
+  
+  law_no_workers_rights: "No Safety Regulations"
+  law_no_workers_rights_desc: "Employers are not under any obligation to maintain safe working conditions."
+  law_regulatory_bodies: "Public Oversight"
+  law_workmens_compensation: "Workmen's Compensation"
+  law_workmens_compensation_desc: "Workers are entitled to claim compensation for injuries and illnesses caused by employer negligence."
+  law_regulatory_bodies_desc: "Regular inspections are conducted by the government to monitor and keep track of unsafe workplaces."
+  law_worker_protections: "Strict Precautions"
+  law_worker_protections_desc: "Employers are obligated to minimise safety hazards as much as possible in the workplace, and are assumed to be liable for any workplace injury by default."
+
+  lawgroup_job_security: "Job Security"
+  lawgroup_job_security_desc: "The extent to which workers are protected from dismissal by their employer."
+
+  law_no_job_security: "No Job Security"
+  law_no_job_security_desc: "Employers are free to dismiss workers without any mandatory justification."
+  law_notice_periods: "Notice Periods"
+  law_notice_periods_desc: "Employers must give reasonable notice prior to dimissal of a worker."
+  law_
